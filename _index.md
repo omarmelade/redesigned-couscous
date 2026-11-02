@@ -1,0 +1,102 @@
+# Passages, dans l'ordre de l'histoire
+
+Sur GitHub : clic sur un nom pour ouvrir le passage · [x] : passage terminé · (…) : condition du lien
+Dans Neovim : Entrée : ouvrir · <leader>x : cocher · za : plier une branche
+■ fin : passage de fin · N entrées : plusieurs passages y mènent · ↪ : déjà listé plus haut · ⚠ sans suite : aucun lien et pas de tag fin
+
+- [x] [Debut](scripts/debut.md)
+  - [x] [vous etes a l'heure](scripts/vous-etes-a-l-heure.md)
+    - [x] [seul](scripts/seul.md)
+      - [x] [entré dans le cotege](scripts/entre-dans-le-cotege.md)
+        - [x] [avnat](scripts/avnat.md)  3 entrées
+          - [x] [la manif  se passe bien](scripts/la-manif-se-passe-bien.md)
+            - [x] [vous etes timide](scripts/vous-etes-timide.md)
+              - [ ] [sur une place](scripts/sur-une-place.md)  5 entrées
+                - [ ] [crier be water](scripts/crier-be-water.md)
+                  - [ ] [vous vous echappez avec vos amis](scripts/vous-vous-echappez-avec-vos-amis.md)
+                    - [ ] [le cortege se reforme plus loins](scripts/le-cortege-se-reforme-plus-loins.md)  4 entrées
+                      - [ ] [commencer a faire un feu](scripts/commencer-a-faire-un-feu.md)  ■ fin
+                      - [ ] [policier ecarter](scripts/policier-ecarter.md)  ■ fin
+                - [ ] [vousscandez des slogant](scripts/vousscandez-des-slogant.md)
+                  - [ ] [vous avez un masque](scripts/vous-avez-un-masque.md)
+                    - ↪ [le cortege se reforme plus loins](scripts/le-cortege-se-reforme-plus-loins.md)  (déjà plus haut)
+                  - [ ] [vous n'avez pas de masque](scripts/vous-n-avez-pas-de-masque.md)  ■ fin
+                - [ ] [feter des pavet sur les force de l'ordre ces fils de pute](scripts/feter-des-pavet-sur-les-force-de-l-ordre-ces-fils-de-pute.md)
+                  - [ ] [vous avez un tee shirt](scripts/vous-avez-un-tee-shirt.md)
+                    - ↪ [le cortege se reforme plus loins](scripts/le-cortege-se-reforme-plus-loins.md)  (déjà plus haut)
+                  - [ ] [vous n'avez pas de tee shirt](scripts/vous-n-avez-pas-de-tee-shirt.md)
+                    - ↪ [le cortege se reforme plus loins](scripts/le-cortege-se-reforme-plus-loins.md)  (déjà plus haut)
+                - [ ] [vous avez unz carte de presse](scripts/vous-avez-unz-carte-de-presse.md)
+                  - [ ] [c news](scripts/c-news.md)  (si vous pillez pas de)  ■ fin
+                  - [ ] [radio nova l'utra mega giga gauche](scripts/radio-nova-l-utra-mega-giga-gauche.md)  ■ fin
+            - [x] [vous voulez l'impressioner](scripts/vous-voulez-l-impressioner.md)
+              - [x] [vous faites un griddy 67 interdis devant les crs](scripts/vous-faites-un-griddy-67-interdis-devant-les-crs.md)
+                - [x] [vous declachez le ko](scripts/vous-declachez-le-ko.md)  3 entrées
+                  - [x] [vous courrez rejoindre une bariquade plus haut dans la rue](scripts/vous-courrez-rejoindre-une-bariquade-plus-haut-dans-la-rue.md)
+                    - [x] [vous etes en tete vous lancez des pavés](scripts/vous-etes-en-tete-vous-lancez-des-paves.md)  ■ fin
+                    - [x] [vous renvoyez les palets de lacrymogènes](scripts/vous-renvoyez-les-palets-de-lacrymogenes.md)
+                      - [x] [plus tard republique](scripts/plus-tard-republique.md)
+                        - [x] [vous lui proposez un date a l'écart de la manif](scripts/vous-lui-proposez-un-date-a-l-ecart-de-la-manif.md)  ■ fin
+                        - [x] [vous restez la place](scripts/vous-restez-la-place.md)  ■ fin
+                    - [ ] [vous galvanisez la foule en criant depuis l'arrière](scripts/vous-galvanisez-la-foule-en-criant-depuis-l-arriere.md)
+                      - ↪ [sur une place](scripts/sur-une-place.md)  (déjà plus haut)
+                  - [ ] [vous refugier dans un commerce](scripts/vous-refugier-dans-un-commerce.md)  ■ fin
+              - [ ] [vous les provoquez en duel](scripts/vous-les-provoquez-en-duel.md)
+                - ↪ [vous declachez le ko](scripts/vous-declachez-le-ko.md)  (déjà plus haut)
+              - [ ] [vous avez t-shirt + biere](scripts/vous-avez-t-shirt-biere.md)
+                - [ ] [vous faites un cocktail molotov](scripts/vous-faites-un-cocktail-molotov.md)  2 entrées
+                  - ↪ [vous faites un cocktail molotov](scripts/vous-faites-un-cocktail-molotov.md)  (déjà plus haut)
+                  - [ ] [au bout de 4](scripts/au-bout-de-4.md)  ■ fin
+                  - ↪ [vous declachez le ko](scripts/vous-declachez-le-ko.md)  (déjà plus haut)
+              - [ ] [tu lui offre un sac](scripts/tu-lui-offre-un-sac.md)  (si piller avant)  ■ fin
+        - [ ] [pilleur2](scripts/pilleur2.md)
+          - [ ] [institution](scripts/institution.md)
+            - [ ] [vous allez a l'elysee](scripts/vous-allez-a-l-elysee.md)  4 entrées
+              - [ ] [vous suivez le plan du groupe](scripts/vous-suivez-le-plan-du-groupe.md)
+                - [ ] [faire divertion](scripts/faire-divertion.md)
+                  - [ ] [cocktails molotov](scripts/cocktails-molotov.md)  (si tee plus bieres)  ■ fin
+                  - [ ] [lacez de pavé](scripts/lacez-de-pave.md)  ■ fin
+                  - [ ] [vous vous lancez dans un grand discour](scripts/vous-vous-lancez-dans-un-grand-discour.md)  ■ fin
+                - [ ] [accrovher la banderolle](scripts/accrovher-la-banderolle.md)  ■ fin
+              - [ ] [vous  etes le chef vous decidez du plan](scripts/vous-etes-le-chef-vous-decidez-du-plan.md)  (si distribution de bieres)
+                - [ ] [entrez par l'avant](scripts/entrez-par-l-avant.md)
+                  - [ ] [find the macron](scripts/find-the-macron.md)  2 entrées
+                    - [ ] [you find the macron](scripts/you-find-the-macron.md)  ⚠ sans suite
+                    - [ ] [you don't find the macron](scripts/you-don-t-find-the-macron.md)  ⚠ sans suite
+                - [ ] [entrez par arriere](scripts/entrez-par-arriere.md)
+                  - ↪ [find the macron](scripts/find-the-macron.md)  (déjà plus haut)
+                - [ ] [ecoutez le fou](scripts/ecoutez-le-fou.md)  ⚠ sans suite
+          - [ ] [grand groupe](scripts/grand-groupe.md)
+            - [ ] [vous faites de la vente a la sauvette avec votre butin](scripts/vous-faites-de-la-vente-a-la-sauvette-avec-votre-butin.md)  ■ fin
+            - [ ] [rejoindre le cortege](scripts/rejoindre-le-cortege.md)
+              - [ ] [suivre groupe de black blocks](scripts/suivre-groupe-de-black-blocks.md)
+                - ↪ [vous allez a l'elysee](scripts/vous-allez-a-l-elysee.md)  (déjà plus haut)
+              - [ ] [continuer a manifester](scripts/continuer-a-manifester.md)
+                - ↪ [avnat](scripts/avnat.md)  (déjà plus haut)
+          - [ ] [vous decidez de piller une petite libraire gauchiste independentevous n'avez pas honte](scripts/vous-decidez-de-piller-une-petite-libraire-gauchiste-independentevous-n-avez-pas-honte.md)
+            - ↪ [vous allez a l'elysee](scripts/vous-allez-a-l-elysee.md)  (déjà plus haut)
+    - [ ] [accompagné](scripts/accompagne.md)
+      - [ ] [arriere](scripts/arriere.md)
+        - [ ] [pilleur](scripts/pilleur.md)
+          - [ ] [intervenir](scripts/intervenir.md)
+            - [ ] [empecher de piller](scripts/empecher-de-piller.md)
+              - [ ] [vous avez des bieres](scripts/vous-avez-des-bieres.md)
+                - [ ] [vous distribuer des bieres](scripts/vous-distribuer-des-bieres.md)
+                  - ↪ [vous allez a l'elysee](scripts/vous-allez-a-l-elysee.md)  (déjà plus haut)
+                - [ ] [je ne leur en donne pas](scripts/je-ne-leur-en-donne-pas.md)
+                  - [ ] [vous les empechez](scripts/vous-les-empechez.md)  ■ fin · 2 entrées
+              - [ ] [vous n'avez de  bieres](scripts/vous-n-avez-de-bieres.md)
+                - ↪ [vous les empechez](scripts/vous-les-empechez.md)  (déjà plus haut)
+            - [ ] [piller](scripts/piller.md)
+              - [ ] [vous avez le tee shirt](scripts/vous-avez-le-tee-shirt.md)
+                - [ ] [vous resortez](scripts/vous-resortez.md)  2 entrées
+                  - [ ] [vous avez bit mesh](scripts/vous-avez-bit-mesh.md)
+                    - ↪ [sur une place](scripts/sur-une-place.md)  (déjà plus haut)
+                  - [ ] [vous avez pas bit mesh](scripts/vous-avez-pas-bit-mesh.md)  ⚠ sans suite
+              - [ ] [vous n'avez pas le tee shirt](scripts/vous-n-avez-pas-le-tee-shirt.md)
+                - ↪ [vous resortez](scripts/vous-resortez.md)  (déjà plus haut)
+          - [ ] [ne rien faire](scripts/ne-rien-faire.md)
+            - ↪ [sur une place](scripts/sur-une-place.md)  (déjà plus haut)
+      - ↪ [avnat](scripts/avnat.md)  (déjà plus haut)
+  - [ ] [vous etes en retard](scripts/vous-etes-en-retard.md)
+    - ↪ [sur une place](scripts/sur-une-place.md)  (déjà plus haut)

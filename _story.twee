@@ -1,0 +1,17 @@
+:: StoryTitle
+17 octobre
+
+
+:: StoryData
+{
+  "ifid": "61D3DD9D-FD76-44AE-B076-833C3811D023",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Debut",
+  "tag-colors": {
+    "17-octobre": "green",
+    "fin": "red",
+    "a-visage-découvert": "yellow"
+  },
+  "zoom": 0.6
+}

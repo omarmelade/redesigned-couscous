@@ -1,0 +1,61 @@
+name: Mettre à jour et publier l'histoire
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: histoire
+  cancel-in-progress: true
+
+jobs:
+  construire:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Reconstruire l'index et l'avancement
+        run: |
+          python3 index.py
+          python3 avancement.py
+
+      - name: Enregistrer les fichiers mis à jour
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "Mise à jour automatique de l'index et de l'avancement"
+            git push
+          fi
+
+      - name: Créer l'histoire jouable
+        run: |
+          python3 build.py
+          curl -sSL -o tweego.zip https://github.com/tmedwards/tweego/releases/download/v2.1.1/tweego-2.1.1-linux-x64.zip
+          unzip -q tweego.zip -d tweego
+          mkdir -p formats/harlowe-3.3.9
+          curl -sSL -o formats/harlowe-3.3.9/format.js https://raw.githubusercontent.com/klembot/twinejs/2.10.0/public/story-formats/harlowe-3.3.9/format.js
+          mkdir -p site
+          TWEEGO_PATH=formats ./tweego/tweego -o site/index.html export.twee
+          cp export.twee site/
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  publier:
+    needs: construire
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploiement.outputs.page_url }}
+    steps:
+      - id: deploiement
+        uses: actions/deploy-pages@v4

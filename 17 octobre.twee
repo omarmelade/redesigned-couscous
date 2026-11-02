@@ -1,0 +1,419 @@
+:: StoryTitle
+17 octobre
+
+
+:: StoryData
+{
+  "ifid": "61D3DD9D-FD76-44AE-B076-833C3811D023",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Debut",
+  "tag-colors": {
+    "17-octobre": "green",
+    "fin": "red",
+    "a-visage-découvert": "yellow"
+  },
+  "zoom": 0.6
+}
+
+
+:: \ entré dans le cotege {"position":"3075,575","size":"100,100"}
+[[avnat]]
+[[pilleur2]]
+
+
+:: Debut [17-octobre] {"position":"1900,125","size":"100,100"}
+17 ocotbre
+
+fin de game vous avez un recap de l'arbre en mode detroit become human
+
+
+lunette 
+bitmesh 
+bieres 
+masque 
+teeshirt 
+carte de presse
+[[vous etes a l'heure]]
+[[vous etes en retard]]
+
+
+:: accompagné {"position":"2100,400","size":"100,100"}
+[[arriere]]
+[[avnat]]
+
+
+:: accrovher la banderolle [fin] {"position":"200,425","size":"100,100"}
+vous arrivez a installer la banderole et vos amis on retenue assez longtemps la police pour pouvoir laisser retrée les manifestant  l'elyssé est pris l'etat cede vous avez gagné
+
+
+:: arriere {"position":"2000,550","size":"100,100"}
+[[pilleur]]
+
+
+:: au bout de 4 [fin] {"position":"3050,1250","size":"100,100"}
+vous tuez tous les policiers bravo vos droits son entendu 
+victroire camarade
+
+
+:: avnat {"position":"1950,600","size":"100,100"}
+[[la manif  se passe bien]]
+
+
+:: c news [fin] {"position":"1950,1775","size":"100,100"}
+les crs vous donne un laneur de lbd vous pouvez " participez a la fete et tabasser du gaucho"
+
+
+:: cocktails molotov [fin] {"position":"325,825","size":"100,100"}
+une jolie photo de vous est prise entrain de le lancer vous etes mort mais vous serez un symbole pour le reste du mouvement on vous oublie au bout de 6 mois c comme ca c la genz
+
+
+:: commencer a faire un feu\  [fin] {"position":"1500,2300","size":"100,100"}
+des gens s'attroupe autour de vous et alimente lefeu qui devient un brasier 
+fin de manif car les policier vous charge
+
+
+:: continuer a manifester {"position":"3925,1100","size":"100,100"}
+[[avnat]]
+
+
+:: crier be water {"position":"1325,1600","size":"100,100"}
+suprenament les gens commence a le crier avec vous et la technique commence a se mettre ne place 
+
+[[vous vous echappez avec vos amis]]
+
+
+:: ecoutez le fou\  {"position":"500,1225","size":"100,100"}
+le groupe ne vous suis pas le fou vous enmenne dans un tunnel au final ct un flic infiltrer  il vous tue a l'abris des regards
+
+
+:: empecher de piller {"position":"1750,950","size":"100,100"}
+[[vous avez des bieres]]
+[[vous n'avez de  bieres]]
+
+
+:: entrez par arriere {"position":"1025,1075","size":"100,100"}
+[[find the macron]]
+
+
+:: entrez par l'avant {"position":"875,1075","size":"100,100"}
+[[find the macron]]
+
+
+:: faire divertion {"position":"375,550","size":"100,100"}
+vous etes en premier ligne contre les crs les sentinel le gign le raid les force special et la marines mais askyp l'armer ne sera jamais deployer contre le peuple 
+c le moment de faire diversion vous :
+[[cocktails molotov]]si tee plus bieres
+[[lacez de pavé]]
+[[vous vous lancez dans un grand discour ]]
+
+
+:: feter des pavet sur les force de l'ordre ces fils de pute\  {"position":"1050,1600","size":"100,100"}
+[[vous avez un tee shirt ]]
+[[vous n'avez pas de tee shirt ]]
+
+
+:: find the macron {"position":"950,1225","size":"100,100"}
+[[you find the macron]][[you don't find the macron]]
+
+
+:: grand groupe\  {"position":"3725,800","size":"100,100"}
+[[vous faites de la vente a la sauvette avec votre butin ]]
+[[rejoindre le cortege]]
+
+
+:: institution {"position":"3425,775","size":"100,100"}
+[[vous allez a l'elysee]]
+
+
+:: intervenir {"position":"1875,800","size":"100,100"}
+[[empecher de piller]]
+[[piller]]
+
+
+:: je ne leur en donne pas\  {"position":"1700,1200","size":"100,100"}
+vous buvez devant eux en les insultants
+[[vous les empechez]]
+
+
+:: la manif  se passe bien {"position":"2300,900","size":"100,100"}
+votre ex est avec vos amis vous l'aimez encore secretement 
+[[vous etes timide ]]
+[[vous voulez l'impressioner]]
+
+
+:: lacez de pavé [fin] {"position":"475,850","size":"100,100"}
+vous etes de gauche donc un homme sauja le paver ne parvient meme pas au pieds des force de l'ordre mais declanche quand meme leur colere et dans une reaction proportionelle ils vous tire dessus de maniere proportionner et vous mourrez et gardant vous proportion et une balle dans la tete
+
+
+:: le cortege se reforme plus loins {"position":"1300,2150","size":"100,100"}
+vous arrivez sur la place de la republique
+les gilet jaune mette le gilet sur la marianne
+vous vous sentez galvaniser vous 
+[[commencer a faire un feu ]]
+[[policier ecarter]]
+
+
+:: ne rien faire {"position":"1500,975","size":"100,100"}
+[[sur une place ]]
+
+
+:: piller {"position":"2225,1000","size":"100,100"}
+[[vous avez le tee shirt]]
+[[vous n'avez pas le tee shirt]]
+
+
+:: pilleur {"position":"1825,675","size":"100,100"}
+[[intervenir]]
+[[ne rien faire]]
+
+
+:: pilleur2 {"position":"3425,500","size":"100,100"}
+[[institution]]
+[[grand groupe ]]
+[[vous decidez de piller une petite libraire gauchiste independentevous n'avez pas honte]]
+
+
+:: plus tard republique {"position":"2750,1550","size":"100,100"}
+plus tard a republique seul avec votre ex, les autres ont du rentrer ils n'étaient pas bien équipé.es 
+les gilets jaune deploie le gilet sur la marianne
+[[vous lui proposez un date a l'écart de la manif]]
+[[vous restez la place]]
+
+
+:: policier ecarter [fin] {"position":"1200,2300","size":"100,100"}
+vous vous battez  et le reste de la police intervient vous etes typer donc vous subissez une theo
+
+
+:: radio nova l'utra mega giga gauche\  [fin] {"position":"2150,1775","size":"100,100"}
+la tension monte les flic deteste la gauchiasse vous vous faites pietiner et vous mourrez
+
+
+:: rejoindre le cortege {"position":"3750,925","size":"100,100"}
+[[suivre groupe de black blocks]]
+[[continuer a manifester]]
+
+
+:: seul {"position":"2825,375","size":"100,100"}
+[[ entré dans le cotege]]
+
+
+:: suivre groupe de black blocks {"position":"3675,1100","size":"100,100"}
+[[vous allez a l'elysee]]
+
+
+:: sur une place\  {"position":"1325,1475","size":"100,100"}
+vous vous faite nasser
+[[crier be water]]
+[[vousscandez des slogant]]
+[[feter des pavet sur les force de l'ordre ces fils de pute ]]
+[[vous avez unz carte de presse]]
+
+
+:: tu lui offre un sac\  [fin] {"position":"3000,800","size":"100,100"}
+vous etes une merde elle vous trouve et mysogine elle rigolle avec vos amis de vous -1000 auras le probleme c les femme vous devenez incel de droite
+
+
+:: vous  etes le chef vous decidez du plan\  {"position":"925,900","size":"100,100"}
+[[entrez par l'avant]]
+[[entrez par arriere]]
+[[ecoutez le fou ]]
+
+
+:: vous allez a l'elysee {"position":"900,450","size":"100,100"}
+[[vous suivez le plan du groupe ]]
+[[vous  etes le chef vous decidez du plan ]]si distribution de bieres
+
+
+:: vous avez bit mesh\  {"position":"2125,1400","size":"100,100"}
+rejoin tes pote
+[[sur une place ]]
+
+
+:: vous avez des bieres {"position":"1675,1075","size":"100,100"}
+[[vous distribuer des bieres]]
+[[je ne leur en donne pas ]]
+
+
+:: vous avez le tee shirt {"position":"2150,1125","size":"100,100"}
+vous vous convrez la tete 
+[[vous resortez]]
+
+
+:: vous avez pas bit mesh\  {"position":"2325,1400","size":"100,100"}
+resaux stauré vous ne pouvez plus rejoindre vos amis
+
+
+:: vous avez t-shirt + biere {"position":"2975,925","size":"100,100"}
+[[vous faites un cocktail molotov]]
+
+
+:: vous avez un masque {"position":"1725,1850","size":"100,100"}
+[[le cortege se reforme plus loins]]
+
+
+:: vous avez un tee shirt\  {"position":"825,1775","size":"100,100"}
+[[le cortege se reforme plus loins]]
+
+
+:: vous avez unz carte de presse {"position":"2025,1625","size":"100,100"}
+vousalles voir les crs pour les filmer en leur presentant votre carte de presse ilv ous de mande quelle media vous travailler
+si vous pillez pas de [[c news]]
+[[radio nova l'utra mega giga gauche ]]
+
+
+:: vous courrez rejoindre une bariquade plus haut dans la rue\  {"position":"2575,1250","size":"100,100"}
+[[vous etes en tete vous lancez des pavés]]
+[[vous renvoyez les palets de lacrymogènes]]
+[[vous galvanisez la foule en criant depuis l'arrière]]
+
+
+:: vous decidez de piller une petite libraire gauchiste independentevous n'avez pas honte {"position":"3325,1075","size":"100,100"}
+une feminniste vous vois vous fais la morale vous regrettez et reposez tout vos livres sur le consentement et patriarcat et sur ses conceille de femme libre et independante vous allez piller l'elyssée pour vous repentir 
+[[vous allez a l'elysee]]
+
+
+:: vous declachez le ko {"position":"2800,1125","size":"100,100"}
+vous provoquez les crs  et a cause de vous et uniquement de vous et votre obstination a pensez ne pas avoir besoin de psy les crs vous charge la manifestation commence a tomber dans le ko .  vous commencez a courir 
+
+[[vous courrez rejoindre une bariquade plus haut dans la rue ]]
+[[vous refugier dans un commerce ]]
+
+
+:: vous distribuer des bieres {"position":"1475,1200","size":"100,100"}
+vous arrivez a les convaincre d'aller prendre l'elysee 
+vous montez un commando d'élite avec eux
+[[vous allez a l'elysee]]
+
+
+:: vous etes a l'heure {"position":"2375,350","size":"100,100"}
+[[seul]]
+[[accompagné]]
+
+
+:: vous etes en retard {"position":"1450,325","size":"100,100"}
+[[sur une place ]]
+
+
+:: vous etes en tete vous lancez des pavés [fin] {"position":"2600,1425","size":"100,100"}
+le pavé touche, les crs vous charge et vous attrape
+ils vous frappent vous subissez une bavure
+
+
+:: vous etes timide\  {"position":"2325,825","size":"100,100"}
+[[sur une place ]]
+
+
+:: vous faites de la vente a la sauvette avec votre butin\  [fin] {"position":"3550,925","size":"100,100"}
+les flics vous vois et vous attrape pas de bol nullos 17 mois de prison alors que patrick est toujours libre la honte
+
+
+:: vous faites un cocktail molotov {"position":"3050,1075","size":"100,100"}
+vous tuez 2 flics
+[[vous faites un cocktail molotov]] [[au bout de 4]]
+[[vous declachez le ko]]
+
+
+:: vous faites un griddy 67 interdis devant les crs {"position":"2625,950","size":"100,100"}
+[[vous declachez le ko]]
+
+
+:: vous galvanisez la foule en criant depuis l'arrière {"position":"2275,1550","size":"100,100"}
+vous arriez a convaincre la foule de se deplacer en direction de la place 
+[[sur une place ]]
+
+
+:: vous les empechez [fin] {"position":"1875,1250","size":"100,100"}
+ils vous tabassent et vous laisse de cote,
+ils ne vous avait rien demandé, 
+les riches sont les vrais voleurs
+etc
+fin mort
+
+
+:: vous les provoquez en duel {"position":"2825,950","size":"100,100"}
+[[vous declachez le ko]]
+
+
+:: vous lui proposez un date a l'écart de la manif [fin] {"position":"2625,1750","size":"100,100"}
+elle accpete vous vous remettez ensemble et vous maxxer votrre rencontre en manif, vous racontez a vos enfants que vous etiez ensemble pendant la revolution
+
+
+:: vous n'avez de  bieres {"position":"1875,1075","size":"100,100"}
+[[vous les empechez]]
+
+
+:: vous n'avez pas de masque [fin] {"position":"1450,1825","size":"100,100"}
+les lacrimo vous brule vous perdez l'usage de vos yeux bonussi vous etes une femme cela affecte votre sntez gynecologique 
+
+
+implementer la dource
+
+
+:: vous n'avez pas de tee shirt\  [a-visage-découvert] {"position":"1100,1750","size":"100,100"}
+[[le cortege se reforme plus loins]]
+
+
+:: vous n'avez pas le tee shirt [a-visage-découvert] {"position":"2325,1125","size":"100,100"}
+vous rentrez piller 
+[[vous resortez]]
+
+
+:: vous refugier dans un commerce\  [fin] {"position":"2850,1275","size":"100,100"}
+c le commerce du frere de MME macron vous etes en securité bravo
+
+
+:: vous renvoyez les palets de lacrymogènes {"position":"2750,1425","size":"100,100"}
+un palets atteris pret de votre ex
+vous le renvoyez avec bravoure et charsime
+elle vous regarde en slowmotion les cheveux au vents 
+vous ne pouvez pas le voir mais une flamme se ravive
+les flammmes de la revolutions
+
+[[plus tard republique]]
+
+
+:: vous resortez {"position":"2225,1275","size":"100,100"}
+vous entedez  premier somation  vous voulez rejoindre vos amis 
+[[vous avez bit mesh ]]
+[[vous avez pas bit mesh ]]
+
+
+:: vous restez la place [fin] {"position":"2925,1700","size":"100,100"}
+les flics arrivent et vous disperses, vous perdez votre ex de vu dans la foule
+vous ne la reverez plus
+
+
+:: vous suivez le plan du groupe\  {"position":"475,400","size":"100,100"}
+le groupe veux mettre une banderole sur l'élysee le groupe se separe en deux 
+[[faire divertion]]
+[[accrovher la banderolle]]
+
+
+:: vous voulez l'impressioner {"position":"2775,825","size":"100,100"}
+[[vous faites un griddy 67 interdis devant les crs]]
+[[vous les provoquez en duel]]
+[[vous avez t-shirt + biere]]
+
+si piller avant [[tu lui offre un sac ]]
+
+
+:: vous vous echappez avec vos amis {"position":"1300,1875","size":"100,100"}
+[[le cortege se reforme plus loins]]
+
+
+:: vous vous lancez dans un grand discour\  [fin] {"position":"175,825","size":"100,100"}
+evidemment vous ne finnez pas lbd dans ton crane au revoir le passage a tpmp
+
+
+:: vousscandez des slogant {"position":"1525,1600","size":"100,100"}
+[[vous avez un masque]]
+[[vous n'avez pas de masque]]
+
+
+:: you don't find the macron {"position":"1075,1350","size":"100,100"}
+you loose
+
+
+:: you find the macron {"position":"850,1350","size":"100,100"}
+ils a win
