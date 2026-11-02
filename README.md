@@ -23,8 +23,9 @@ dans [`scripts/`](scripts/), et l'arbre complet de l'histoire est dans [`_index.
 C'est enregistré. L'index, l'avancement et la version jouable se mettent à jour tout seuls.
 
 > Astuce : appuie sur la touche **.** (point) sur la page du dépôt pour ouvrir un éditeur plus confortable
-> dans le navigateur, avec tous les fichiers à gauche. Pour enregistrer, va dans l'icône
-> « Source Control » à gauche, écris un message, puis **Commit & Push**.
+> dans le navigateur, avec les passages à gauche (les fichiers techniques sont masqués).
+> Accepte l'installation des extensions recommandées pour avoir le correcteur d'orthographe en français.
+> Pour enregistrer, va dans l'icône « Source Control » à gauche, écris un message, puis **Commit & Push**.
 
 ### Ajouter un choix et un nouveau passage
 
