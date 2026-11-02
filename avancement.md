@@ -8,7 +8,7 @@ Total : 78 passages · Écrit 16 · En cours 34 · Vide 28
 | [c news](scripts/c-news.md) | En cours | fin | 93 | 0 |
 | [cocktails molotov](scripts/cocktails-molotov.md) | En cours | fin | 177 | 0 |
 | [commencer a faire un feu](scripts/commencer-a-faire-un-feu.md) | En cours | fin | 118 | 0 |
-| [crier be water](scripts/crier-be-water.md) | En cours |  | 96 | 1 |
+| [crier be water](scripts/crier-be-water.md) | En cours |  | 104 | 1 |
 | [ecoutez le fou](scripts/ecoutez-le-fou.md) | En cours |  | 126 | 0 |
 | [faire divertion](scripts/faire-divertion.md) | En cours |  | 201 | 3 |
 | [je ne leur en donne pas](scripts/je-ne-leur-en-donne-pas.md) | En cours |  | 39 | 1 |
