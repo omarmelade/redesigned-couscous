@@ -15,10 +15,23 @@ LINK = re.compile(r"\[\[(.*?)\]\]")
 def target(link):
     """Nom du passage visé par un lien Twine [[...]]."""
     if "->" in link:
-        return link.split("->")[-1]
+        return link.split("->")[-1].strip()
     if "<-" in link:
-        return link.split("<-")[0]
-    return link.split("|")[-1]
+        return link.split("<-")[0].strip()
+    return link.split("|")[-1].strip()
+
+
+def clean_link(m):
+    """[[ sur une place ]] -> [[sur une place]] : Harlowe ignore les espaces autour du nom visé."""
+    inner = m.group(1)
+    for sep in ("->", "<-", "|"):
+        if sep in inner:
+            return "[[" + sep.join(part.strip() for part in inner.split(sep)) + "]]"
+    return "[[" + inner.strip() + "]]"
+
+
+def clean_links(text):
+    return LINK.sub(clean_link, text)
 
 
 def _value(raw):
@@ -88,7 +101,8 @@ class Passage:
         self.meta = parse_frontmatter(fm or "")
         if not self.meta.get("passage"):
             self.meta["passage"] = self.path.stem
-        self.name = self.meta["passage"]
+        # Les espaces au début et à la fin du nom ne comptent pas (Harlowe les ignore dans les liens)
+        self.name = str(self.meta["passage"]).strip()
         self.tags = self.meta["tags"]
         self.sections = sections(body)
 

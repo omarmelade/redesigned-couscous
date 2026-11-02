@@ -5,7 +5,7 @@ Usage : python3 build.py            -> écrit export.twee
 La section Notes n'est pas exportée. Le fichier .twee d'origine n'est jamais modifié.
 """
 import json
-from story_lib import root, load_all
+from story_lib import root, load_all, clean_links
 
 def escape(name):
     name = name.replace("\\", "\\\\").replace("[", "\\[").replace("]", "\\]").replace("{", "\\{").replace("}", "\\}")
@@ -16,7 +16,7 @@ def escape(name):
 parts = [(root / "_story.twee").read_text(encoding="utf-8").replace("\r\n", "\n").rstrip("\n")]
 for p in load_all():
     liens = "\n".join(p.liens()).strip("\n")
-    body = "\n".join(x for x in (p.texte(), liens) if x)
+    body = clean_links("\n".join(x for x in (p.texte(), liens) if x))
     head = ":: " + escape(p.name)
     if p.tags: head += " [" + " ".join(p.tags) + "]"
     head += " " + json.dumps({"position": p.meta["position"], "size": p.meta["size"]}, separators=(",", ":"))
